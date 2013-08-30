@@ -1,0 +1,7 @@
+git clone does following commands:
+
+1.creating the directory with name of the project
+2.initiate command git init
+3.adds remote connection to git
+4.initiate command git pull from destination link
+
