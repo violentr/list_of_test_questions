@@ -1,0 +1,1 @@
+Branch is an virtual are of git ,where all changes made  were recorded and saved to certain branch.
