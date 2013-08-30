@@ -1,0 +1,5 @@
+by doing git clone we perform the following commands:
+1. Creating directory
+2.Initiating git repository , git init
+3.adding remote connection ,git remote add origin ..
+4.Pulling data from remote connection , git pull ..
